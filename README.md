@@ -1,3 +1,7 @@
+# Pull requests 
+
+#10: [Fix #9 (create subdirs properly)](https://github.com/LOLINTERNETZ/vscodeoffline/pull/10)
+
 # Visual Studio Code - Offline Gallery and Updater
 
 This enables Visual Studio Code's web presence to be mirrored for seamless use in an offline environment (e.g. air-gapped), or to run a private gallery.
